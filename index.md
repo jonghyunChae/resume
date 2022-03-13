@@ -22,10 +22,9 @@
 	 `C/C++` `Windows Server` `MSSQL (Sql Server)` `TCP/UDP IOCP` `Dedicated Server`
 	 `JIRA` `TFS(Team Foundation Server)` `Git` `SVN` 
 ##### <br>Description.
-당시 동남아, 브라질에서 국민 FPS로 유명하던 프로젝트이자 저의 첫 경력을 갖게 해준 프로젝트입니다.
-윈도우 환경의 실시간 FPS 서버, Dedicated Server 환경 이었으며 
-높은 동접자의 경험을 해보며, 서버 프로그래머로서 기본기를 다듬을 수 있었습니다.
-많은 국가들의 전반적인 Live 이슈 대응부터 로그 서버 전담, 전반적인 컨텐츠 및 게임모드 개발 등 다양한 개발을 했습니다.<br><br>
+당시 동남아, 브라질 등에서 국민 FPS로 유명하던 프로젝트이자 저의 첫 경력을 갖게 해준 프로젝트입니다.<br>
+`윈도우 서버`의 `실시간 FPS 서버`, `Dedicated Server` 환경에서 `C/C++`로 `TCP IOCP`와 `UDP IOCP` 기반으로 개발 했습니다. <br>
+높은 동접 환경에서 다양한 트러블 슈팅, 많은 국가들의 전반적인 Live 이슈 대응부터 로그 서버 전담, 전반적인 컨텐츠 및 게임모드 개발 등 다양한 개발을 했습니다.<br><br>
 
     - **로그서버 관리 및 최적화**
 	  - 로그가 많은 서버에는 적재 과정에 상당한 딜레이가 발생하고 있던 상황
@@ -54,15 +53,26 @@
 ##### <br>개발 환경
 	 `C/C++` `Windows Server` `DirectX 11` `MSSQL (Sql Server)` `IOCP` `Git`
 ##### <br>Description.
-학부시절 프로젝트로 경력 기술서에는 애매할 수 있으나, 소소한 클라이언트 경험을 적어보려고 넣었습니다.
-해당 프로젝트는 친구가 서버를 맡았고, 저는 클라이언트를 도맡아했습니다. 
-DirectX 버전 11 기반으로 개발했었으며, MultiThread Rendering부터, 각종 Shader 문서를 참고하는 등 많은 기술을 넣어보려고 공을 들였습니다.<br><br>
+학부시절 많은 프로젝트 중, 제 클라이언트 경험을 잘 담을 수 있는 프로젝트를 적어 봤습니다.<br>
+최대 4인이서 서로 주어진 환경에서 자원을 획득하며 서로 전투하는 방식의 게임 입니다.<br>
+해당 프로젝트는 친구가 서버를 맡았고, 저는 클라이언트를 도맡아했습니다. <br>
+DirectX 버전 11 기반으로 개발했었으며, Multi-Thread Rendering부터, SIMD, 각종 Shader 기법 문서를 참고하여<br>
+많은 기술을 해당 프로젝트에 넣어보려고 공을 들였습니다.<br><br>
 ![Image1](https://github.com/jonghyunChae/image_upload/blob/main/%ED%81%B4%EB%9D%BC2.png?raw=true)
 ![Image2](https://github.com/jonghyunChae/image_upload/blob/main/%ED%81%B4%EB%9D%BC1.png?raw=true)
 <br>
 
 ----------------------
 # Skills
+<br>
+  - ### C/C++
+<br>
+  - ### C#
+<br>
+  - ### Server
+<br>
+  - ### Database
+<br>
 ---------------------
 # Education
 ---------------------
