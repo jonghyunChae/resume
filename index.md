@@ -22,8 +22,8 @@
 	 `C# (메인)` `.NET Framework` `C/C++` `Windows Server` `MSSQL (Sql Server)` `Proudnet` `Redis` `Dedicated Server`
 	 `JIRA` `CCNET` `Perforce (p4)` `AWS`
 ##### <br>Description.
-마을에서는 `RPG`, 전투는 방에서 던전을 플레이하는 `MORPG`의 액션 RPG 게임입니다.<br>
-`윈도우 서버`에서 `C#`으로 서버개발과, `C++`로 클라이언트 개발과 `Dedicated Server`를 일부 사용하는 프로젝트 입니다.<br>
+마을에서는 `RPG`, 전투는 방에서 던전을 플레이하는 액션 `MORPG` 게임입니다.<br>
+`윈도우 서버`에서 `C#`으로 서버 개발, `C++`로 클라이언트 개발과 `Dedicated Server`를 일부 사용하는 프로젝트 입니다.<br>
 마을에서는 일부 `MMO` 방식으로도 작동하지만 채널 기반의 구조입니다.<br>
 좋은 동료분들 덕분에 프로그래머로서 더 성숙해지는 계기가 되었습니다.<br>
 MSA는 아니지만 일정 부분 흡사한 Service 기반의 확장성있는 아키텍처를 사용했습니다.<br>
@@ -51,7 +51,7 @@ Enumerator를 이용하여 요청을 `corutine` 방식으로 처리하는 아키
 	- **아레나 런처 도입 / 패킹 배포 프로세스 변경**
 	  - 해외 클라이언트 FTP 업로드 방식에서 아레나 업로드, 스팀 업로드로 변경
 	  - 해외 서버 FTP 업로드 방식에서 SVN 업로드로 변경
-    - **Live 이슈 대응 및 각종 트러블슈팅**	  
+    - **Live 이슈 대응 및 각종 트러블 슈팅**	 
 <br><br>
   - ## Zepetto
 ### PointBlank / Server Engineer
