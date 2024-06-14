@@ -17,12 +17,13 @@ layout: default
 ### 프라시아 전기 (Project ER) / 서버 유닛
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 2년 이상 진행 중 )
 ##### <br>개발 환경
-	 `C# 12` `.NET 8` `Sokcet` `RestAPI - Kreskel (ASP.NET Core)`
-	 `MSSQL (Sql Server)` `ADO.Net 기반의 TozLibrary` `SSDT(sql server data tool)` 
-	 `T4 Template` `.NET Code Analysis` `Resharper` `DotMemory`, `DotTrace`
+	 `C# 12` `.NET 8` `RestAPI - Kreskel (ASP.NET Core)`
+	 `MSSQL (Sql Server)` `ADO.NET 기반의 Toz Library` `SSDT(sql server data tool)` 
+	 `T4 Template` `.NET Code Analysis` `Resharper` `DotMemory` `DotTrace`
 	 `JIRA` `Confluence` `Jenkins` `Perforce (p4)` `Swarm(review)`
 	 `NLog` `BigQuery` `Snowflake` 
-	 (Nexon Platform) `NxLog` `Toy` `TozEngine(ADO.Net 기반의 ORM, 직렬화 Framework)` `NxCommand` `GOT` `Submarine`
+	 Nexon Platform
+	  - `NxLog` `Toy` `TozEngine(ADO.Net 기반의 ORM, 직렬화 Framework)` `NxCommand` `GOT` `Submarine`
 ##### <br>Description.
 Seamless 월드 기반의 공성전이 메인인 `MMORPG` 게임입니다.<br>
 2023년 3월 31일의 `게임 런칭`에 기여했습니다.<br>
