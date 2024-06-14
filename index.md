@@ -14,8 +14,8 @@ layout: default
 <br>
 ----------------------
 # Work Experiences
-### 프라시아 전기 (Project ER)
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 진행 중 )
+### 프라시아 전기 (Project ER) / 서버 유닛
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 2년 이상 진행 중 )
 ##### <br>개발 환경
 	 `C# 12` `.NET 8` `Sokcet` `RestAPI - Kreskel (ASP.NET Core)`
 	 `MSSQL (Sql Server)` `ADO.Net 기반의 TozLibrary` `SSDT(sql server data tool)` 
