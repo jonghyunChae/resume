@@ -17,12 +17,12 @@ layout: default
 ### 프라시아 전기 (Project ER) / 서버 유닛
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 2년 이상 진행 중 )
 ##### <br>개발 환경
-	 `C# 12` `.NET 8` `RestAPI - Kreskel (ASP.NET Core)`
-	 `MSSQL (Sql Server)` `ADO.NET 기반의 Toz Library` `SSDT(sql server data tool)` 
-	 `T4 Template` `.NET Code Analysis` `Resharper` `DotMemory` `DotTrace`
-	 `JIRA` `Confluence` `Jenkins` `Perforce (p4)` `Swarm(review)`
-	 `NLog` `BigQuery` `Snowflake` 
-	 Nexon Platform
+	 `C# 12` `.NET 8` `RestAPI - Kreskel (ASP.NET Core)`<br>
+	 `MSSQL (Sql Server)` `ADO.NET 기반의 Toz Library` `SSDT(sql server data tool)`<br>
+	 `T4 Template` `.NET Code Analysis` `Resharper` `DotMemory` `DotTrace`<br>
+	 `JIRA` `Confluence` `Jenkins` `Perforce (p4)` `Swarm(review)`<br>
+	 `NLog` `BigQuery` `Snowflake`<br>
+	 Nexon Platform<br>
 	  - `NxLog` `Toy` `TozEngine(ADO.Net 기반의 ORM, 직렬화 Framework)` `NxCommand` `GOT` `Submarine`
 ##### <br>Description.
 Seamless 월드 기반의 공성전이 메인인 `MMORPG` 게임입니다.<br>
@@ -53,11 +53,10 @@ NavMesh 기반의 게임이고 게임 클라이언트 접속이 종료되어도 
 ### 마비노기 영웅전 / 서버 유닛
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018. 05 ~ 2022. 05 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 4년 )
 ##### <br>개발 환경
-	 `C# (메인)` `.NET Framework 4.8` `C/C++` `Windows Server` 
-	 `MSSQL (Sql Server)` `LINQ to SQL` 
-	 `Proudnet` `Redis` `소스 엔진 기반의 Dedicated Server`
-	 `JIRA` `CCNET` `Perforce (p4)` `AWS`
-	 (Nexon Platform) `Arena`
+	 `C# (메인)` `.NET Framework 4.8` `C/C++` `Windows Server`<br> 
+	 `MSSQL (Sql Server)` `LINQ to SQL`<br> 
+	 `Proudnet` `Redis` `소스 엔진 기반의 Dedicated Server`<br>
+	 `JIRA` `CCNET` `Perforce (p4)` `AWS`<br>
 ##### <br>Description.
 마을에서는 `RPG`, 전투는 방에서 던전을 플레이하는 액션 `MORPG` 게임입니다.<br>
 `윈도우 서버`에서 `C#`으로 서버 개발, `C++`로 클라이언트 개발과 `Dedicated Server`를 사용하는 프로젝트 입니다.<br>
@@ -86,7 +85,7 @@ Enumerator를 이용하여 요청을 `corutine` 방식으로 처리하는 아키
 ### PointBlank / Server Engineer
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016. 07 ~ 2018. 05 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 1년 11개월 )
 ##### <br>개발 환경
-	 `C/C++` `Windows Server` `MSSQL (Sql Server)` `TCP IOCP` `UDP IOCP` `자체 개발 Dedicated Server`
+	 `C/C++` `Windows Server` `MSSQL (Sql Server)` `TCP IOCP` `UDP IOCP` `자체 개발 Dedicated Server`<br>
 	 `JIRA` `TFS(Team Foundation Server)` `Git` `SVN` 
 ##### <br>Description.
 당시 동남아, 브라질 등에서 국민 FPS로 유명했던 프로젝트이자 첫 경력 프로젝트입니다.<br>
