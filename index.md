@@ -20,7 +20,7 @@ layout: default
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 2년 이상 진행 중 )
 ##### <br>개발 환경
 	 - `C# 12` `.NET 8` `RestAPI - Kreskel (ASP.NET Core)`<br>
-	 - `MSSQL (Sql Server)` `ADO.NET` `SSDT(sql server data tool)`<br>
+	 - `MSSQL (Sql Server)` `TozORM(ADO.NET 기반)` `SSDT(Sql Server Data Tool)`<br>
 	 - `T4 Template` `.NET Code Analysis` `Resharper` `DotMemory` `DotTrace`<br>
 	 - `JIRA` `Confluence` `Jenkins` `Perforce (p4)` `Swarm (review)`<br>
 	 - `NLog` `BigQuery` `Snowflake` `Grafana`<br>
