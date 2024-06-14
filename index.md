@@ -14,6 +14,8 @@ layout: default
 <br>
 ----------------------
 # Work Experiences
+<br>
+  - ## Nexon Korea
 ### 프라시아 전기 (Project ER) / 서버 유닛
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 2년 이상 진행 중 )
 ##### <br>개발 환경
@@ -48,8 +50,6 @@ NavMesh 기반의 게임이고 게임 클라이언트 접속이 종료되어도 
 	  - 인스턴스 던전 기반 시스템 개발
 	  - 특수화 되어있던 필드 구성을 모든 시스템을 인스턴스 필드에서 활용할 수 있도록 개선 (마을 기능, 어시스트 등)
 	- **그 외 전투, 사망, 버프, 스킬 시스템 개발 등**
-<br>
-  - ## Nexon Korea
 ### 마비노기 영웅전 / 서버 유닛
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018. 05 ~ 2022. 05 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 4년 )
 ##### <br>개발 환경
@@ -60,7 +60,7 @@ NavMesh 기반의 게임이고 게임 클라이언트 접속이 종료되어도 
 ##### <br>Description.
 마을에서는 `RPG`, 전투는 방에서 던전을 플레이하는 액션 `MORPG` 게임입니다.<br>
 `윈도우 서버`에서 `C#`으로 서버 개발, `C++`로 클라이언트 개발과 `Dedicated Server`를 사용하는 프로젝트 입니다.<br>
-마을에서는 일부 `MMO` 방식으로도 작동하며 채널기반의 구조입니다.<br>
+마을에서는 부분적으로 서로 만날 수 있는 `MMO` 방식으로도 작동하며 채널 기반의 구조입니다.<br>
 MSA는 아니지만 일정 부분 흡사한 Service 기반의 확장성있는 아키텍처를 사용했습니다.<br>
 Enumerator를 이용하여 요청을 `corutine` 방식으로 처리하는 아키텍처를 사용했습니다.<br><br>
 
@@ -108,8 +108,7 @@ Enumerator를 이용하여 요청을 `corutine` 방식으로 처리하는 아키
 	- **Dedicated Server의 Resource 비동기 로드**
 	  - 서버 부팅 시 Resource Load 및 Parsing에서 많은 시간 소요되던 것을 비동기로 시간 대폭 감축
     - **여러 컨텐츠 및 게임모드 개발 및 유지 보수**
-	- **대회 서버 구축 지원** 
-
+	- **대회 서버 구축 지원**
 <br>
 
 ----------------------
