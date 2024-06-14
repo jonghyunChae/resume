@@ -20,7 +20,7 @@ layout: default
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022. 05 ~ 현재 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 2년 이상 진행 중 )
 ##### <br>개발 환경
 	 - `C# 12` `.NET 8` `RestAPI - Kreskel (ASP.NET Core)`<br>
-	 - `MSSQL (Sql Server)` `TozORM(ADO.NET 기반)` `SSDT(Sql Server Data Tool)`<br>
+	 - `MSSQL (Sql Server)` `TozORM(ADO.NET)` `SSDT(Sql Server Data Tool)`<br>
 	 - `T4 Template` `.NET Code Analysis` `Resharper` `DotMemory` `DotTrace`<br>
 	 - `JIRA` `Confluence` `Jenkins` `Perforce (p4)` `Swarm (review)`<br>
 	 - `NLog` `BigQuery` `Snowflake` `Grafana`<br>
@@ -52,7 +52,7 @@ NavMesh 기반의 게임이고 게임 클라이언트 접속이 종료되어도 
 	- **그 외 전투, 사망, 버프, 스킬 시스템 개발 등**
 <br>
 <br>
-________________________________________________
+-----------------------------
 ### 마비노기 영웅전 / 서버 유닛
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018. 05 ~ 2022. 05 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( 4년 )
 ##### <br>개발 환경
