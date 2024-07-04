@@ -25,13 +25,12 @@ layout: default
 	 - `JIRA` `Confluence` `Jenkins` `Perforce (p4)` `Swarm (review)`<br>
 	 - `NLog` `BigQuery` `Snowflake` `Grafana`<br>
 	 Nexon Platform
-	  - `NxLog` `Toy` `TozEngine` `NxCommand` `GOT` `Submarine`
+	  - `NxLog` `Toy` `Toz` `NxCommand` `GOT`
 ##### <br>Description.
 Seamless 월드 기반의 공성전이 메인인 `MMORPG` 게임입니다.<br>
 2023년 3월 31일의 `게임 런칭`에 기여했습니다.<br>
 NavMesh 기반의 게임이고 게임 클라이언트 접속이 종료되어도 비접속 중에 게임 플레이를 할 수 있는 어시스트 시스템이 있습니다.<br>
-`Monolithic`한 서버 기반에 `비동기 Task 및 TaskSchedular 기반 프로그래밍`을 통해 성능을 최대한 끌어올린 방식의 아키텍처를 사용했습니다.<br>
-많은 개발에 참여해 길드, 공성전을 제외하고는 대부분 작업을 해봤으나 집중적으로 담당을 해본 기능 위주로 적었습니다.<br><br>
+`비동기 Task 및 TaskSchedular`을 통해 성능을 최대한 끌어올린 방식의 아키텍처를 사용했습니다.<br><br>
 
 	- **거래소**
 	  - 런칭 전 안정화 및 테스트
